@@ -21,9 +21,9 @@ CREATE TABLE dispensing_records (
 
 INSERT INTO medicines (medicine_id, medicine_name, stock_quantity)
 VALUES 
-    (1, 'Paracetamol 500mg', 50),
+    (1, 'Antacid 500mg', 50),
     (2, 'Amoxicillin 250mg', 5),
-    (3, 'Seotrine 400mg', 0),
+    (3, 'coughsyrup 400mg', 0),
 	(4, 'Panadol 200mg', 9),
 	(5, 'Vitamin c 100mg', 49);
 	
